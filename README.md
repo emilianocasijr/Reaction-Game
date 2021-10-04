@@ -1,4 +1,6 @@
 # Reaction Game
+## Project Decription
+A simple reaction game built using Vuejs
 
 ## Project setup
 ```
