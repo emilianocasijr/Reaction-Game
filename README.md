@@ -1,4 +1,4 @@
-# reaction-game-initial
+# Reaction Game
 
 ## Project setup
 ```
